@@ -40,4 +40,6 @@ C# Programalama Dili İle Geliştirilen Bir Kütüphane Otomasyonu</br>
 
 
 <h3>İletişim</h3>
-<a href="tel:05336444156">Telefon Numaram</a>
+İletişim</br>
+Tel:(533)644 4156 WhatsApp</br>
+E-Mail: faruk_thecno@hotmail.com & farukteknoloji@gmail.com</br>
