@@ -7,3 +7,17 @@ C# Programalama Dili İle Geliştirilen Bir Kütüphane Otomasyonu</br>
   <li>Kullanıcı Paneli Profilim ve İletişim Bölümü Kodlanacak!</li>
   <li>Güncelleme Sistemi Kodlanabilir!</li>
   </ul>
+  
+  Version 1.0  Beta İle Gelen Özellikler<br/>
+ <ul>
+  <li>Etkin Bellek Kullanımı Minimum Bellek Maksimum Performans!</li>
+  <li>Kitaplarınızı Sisteme Kaydedip Kitaplarınızı Yönetebilirsiniz!</li>
+  <li>Okuyucularızın Aldığı Kitapları Görme ve Okuyucularınızı Engelleme!</li>
+  <li>Etkin Kısayollar İle Hızlılık ve Kolaylık!</li>
+  <li>Kitap Bilgilerinizi Tek Tuşla Güncellemek!</li><
+  <li>Şifreleri Kriptografi İle Koruma</li>
+  <li>Kolay Sade Arayüz</li>
+  <li>Minimum Hata ve Bug</li>
+  </ul>
+  
+  
