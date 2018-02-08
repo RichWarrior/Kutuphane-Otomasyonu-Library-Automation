@@ -14,10 +14,29 @@ C# Programalama Dili İle Geliştirilen Bir Kütüphane Otomasyonu</br>
   <li>Kitaplarınızı Sisteme Kaydedip Kitaplarınızı Yönetebilirsiniz!</li>
   <li>Okuyucularızın Aldığı Kitapları Görme ve Okuyucularınızı Engelleme!</li>
   <li>Etkin Kısayollar İle Hızlılık ve Kolaylık!</li>
-  <li>Kitap Bilgilerinizi Tek Tuşla Güncellemek!</li><
+  <li>Kitap Bilgilerinizi Tek Tuşla Güncellemek!</li>
   <li>Şifreleri Kriptografi İle Koruma</li>
   <li>Kolay Sade Arayüz</li>
   <li>Minimum Hata ve Bug</li>
   </ul>
+  Version 1.1 Beta Kısayol Tuşları<br/>
+  <ul>
+  <li>CTRL + S = Kitap Ekle</li>
+  <li>CTRL + X = Kitap Sil & Kullanıcı Engelle</li>
+  <li>CTRL + C = Kitap Güncelle</li>
+  <li>CTRL + D = Kitap Alındı Olarak Güncelle</li>
+  </ul>
   
+  Yeni Version İle Gelmesi Muhtemelen Özellikler</br>
+  <ul>
+  <li>Eksik Kısımlar Kodlanacak!</li>
+  <li>Daha Fazla Kısayol ve Daha Aktif Stabil Bellek Kullanımı</li>
+  <li>Güncelleme Sistemi Gelebilir!</li>
+  <li>Bazı Buglar Temizlenecek</li>
+  </ul>
   
+
+
+
+
+<h3>İletişim</h3>
