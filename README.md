@@ -1,5 +1,6 @@
 # Kutuphane-Otomasyonu-Library-Automation
 C# Programalama Dili İle Geliştirilen Bir Kütüphane Otomasyonu</br>
+<a href="https://mega.nz/#!QNEQWDSS!q4M0DD7veFX__kdBwKdwms_btZWBHeBkxfdeYJfN0ro">İndirmek İçin Tıkla</a>
 <font face="Arial" color="Red">Version 1.0 İle Eksik Olan Özellikler</font>
 <ul>
   <li>Giriş Paneli Destek Bölümü Kodlanacak!</li>
