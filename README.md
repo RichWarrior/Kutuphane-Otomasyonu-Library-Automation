@@ -1,4 +1,4 @@
-# Kutuphane-Otomasyonu-Library-Automation
+# Kutuphane-Otomasyonu
 C# Programalama Dili İle Geliştirilen Bir Kütüphane Otomasyonu</br>
 <font face="Arial" color="Red">Version 1.0 İle Eksik Olan Özellikler</font>
 <ul>
